@@ -4,7 +4,7 @@ An Arduino-based smart dustbin that automatically detects and classifies waste a
 
 ---
 
-## 📌 Objective
+##  Objective
 
 - Promote hygienic and eco-friendly waste disposal
 - Reduce human contact with waste
@@ -12,7 +12,7 @@ An Arduino-based smart dustbin that automatically detects and classifies waste a
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **IR sensor** detects the presence of waste
 2. **Servo motor** opens the lid automatically
@@ -26,7 +26,7 @@ An Arduino-based smart dustbin that automatically detects and classifies waste a
 
 ---
 
-## ⚙️ Components Used
+##  Components Used
 
 | Component              | Purpose                            |
 |------------------------|-------------------------------------|
@@ -41,7 +41,7 @@ An Arduino-based smart dustbin that automatically detects and classifies waste a
 
 ---
 
-## 🖼️ Project Images
+##  Project Images
 
 ### 📊 Circuit Diagram
 
