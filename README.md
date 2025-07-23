@@ -68,7 +68,4 @@ An Arduino-based smart dustbin that automatically detects and classifies waste a
 > This image shows the final assembled Smart Dustbin during demonstration.  
 > It includes the dustbin housing, connected sensors, and the working mechanism for automatic lid opening and waste sorting. It’s useful for seeing the overall integration of hardware in a real container.
 
----
-
-## 📁 Folder Structure
 
