@@ -54,7 +54,7 @@ An Arduino-based smart dustbin that automatically detects and classifies waste a
 
 ### 🔌 Arduino Uno with Connected Components
 
-![Arduino Setup](images/arduino_components.jpg)
+![Arduino Setup](https://github.com/MohonaMohsin/Smart-Dustbin-with-Automated-Waste-Segregation/blob/main/images/Uno_Components_Layout.jpg)
 
 > This image displays the actual Arduino Uno board with all components connected.  
 > You can see how sensors and motors are connected with jumper wires. This helps visualize the hardware setup and real-life implementation beyond just the circuit diagram.
