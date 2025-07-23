@@ -1,4 +1,4 @@
-# Smart Dustbin 🚮 – IoT-Based Waste Segregation System
+# Smart Dustbin 🚮 – Waste Segregation System
 
 An Arduino-based smart dustbin that automatically detects and classifies waste as **Wet**, **Dry**, or **Metal** using sensors. It improves hygiene, reduces manual sorting, and supports smart city infrastructure.
 
