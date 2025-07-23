@@ -74,7 +74,7 @@ An Arduino-based smart dustbin that automatically detects and classifies waste a
 <p align="center">
   <img src="https://github.com/MohonaMohsin/Smart-Dustbin-with-Automated-Waste-Segregation/blob/main/images/project_showcasing.jpg?raw=true" alt="Project Showcase" width="500"/>
   <br>
-  <b>Figure 3:</b> Final Assembled Smart Dustbin During Demonstration
+  <b>Figure 3:</b> Project Showcasing
 </p>
 
 > This image shows the final assembled Smart Dustbin during demonstration.  
