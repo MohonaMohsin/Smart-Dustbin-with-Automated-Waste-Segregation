@@ -45,7 +45,7 @@ An Arduino-based smart dustbin that automatically detects and classifies waste a
 
 ### 📊 Circuit Diagram
 
-![Circuit Diagram](images/circuit_diagram.jpg)
+![Circuit Diagram](https://github.com/MohonaMohsin/Smart-Dustbin-with-Automated-Waste-Segregation/blob/main/images/project_circuit_diagram.jpg)
 
 > This is the full circuit layout of the Smart Dustbin system.  
 > It shows how the sensors (IR, Moisture, Metal), servo motor, stepper motor, and buzzer are connected to the Arduino Uno. This diagram is essential for understanding the physical wiring of the hardware.
